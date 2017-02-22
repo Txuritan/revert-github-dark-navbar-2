@@ -2,8 +2,7 @@
 // @name        GitHub dark navbar revert 2
 // @version      2
 // @description  Revert the GitHub dark navbar change
-// @author       cubeee (https://github.com/cubeee)
-// @author       Txuritan (https://github.com/Txuritan)
+// @author       cubeee (https://github.com/cubeee), Txuritan (https://github.com/Txuritan)
 // @match        https://github.com/*
 // @match        https://gist.github.com/*
 // @grant        none
