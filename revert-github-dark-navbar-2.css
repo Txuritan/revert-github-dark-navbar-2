@@ -44,3 +44,12 @@
 .header-nav-link:focus .dropdown-caret {
     border-top-color: #4078c0;
 }
+input.header-search-input::placeholder {
+    color: rgba(0, 0, 0, 0.75)!important;
+}
+input.header-search-input::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.75)!important;
+}
+input.header-search-input::-moz-placeholder {
+    color: rgba(0, 0, 0, 0.75)!important;
+}
