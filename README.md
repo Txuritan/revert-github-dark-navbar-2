@@ -1,0 +1,1 @@
+Install Greasemonkey/Tampermonkey and visit [https://raw.githubusercontent.com/cubeee/revert-github-dark-navbar/master/revert-github-dark-navbar.user.js](https://github.com/Txuritan/revert-github-dark-navbar-2/raw/master/revert-github-dark-navbar-2.user.js) to install it
