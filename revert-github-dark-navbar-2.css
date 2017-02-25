@@ -53,3 +53,9 @@ input.header-search-input::-webkit-input-placeholder {
 input.header-search-input::-moz-placeholder {
     color: rgba(0, 0, 0, 0.75)!important;
 }
+.header-logo-wordmark {
+    color: #000;
+}
+.header-logo-wordmark:hover {
+    color: #4078c0;
+}
