@@ -17,7 +17,8 @@ var css = '.header { background-color: #F5F5F5; border-bottom: 1px solid #E5E5E5
     '.header .header-search-wrapper.focus { background-color: rgba(255,255,255,0.075); } .header .header-search-wrapper.focus .header-search-scope { color: rgba(0, 0, 0, 0.87); background-color: rgba(255,255,255,1);  border-right-color: #E5E5E5; } .header .header-search-wrapper.focus { background-color: rgba(255,255,255,1); }' +
     '.notification-indicator .mail-status { border: 2px solid #EEEEEE; }' +
     '.header-nav-link:hover, .header-nav-link:focus { color: #4078c0; } .header-nav-link:hover .dropdown-caret, .header-nav-link:focus .dropdown-caret { border-top-color: #4078c0; }' +
-    'input.header-search-input::placeholder { color: rgba(0, 0, 0, 0.75)!important; } input.header-search-input::-webkit-input-placeholder { color: rgba(0, 0, 0, 0.75)!important; } input.header-search-input::-moz-placeholder { color: rgba(0, 0, 0, 0.75)!important; }';
+    'input.header-search-input::placeholder { color: rgba(0, 0, 0, 0.75)!important; } input.header-search-input::-webkit-input-placeholder { color: rgba(0, 0, 0, 0.75)!important; } input.header-search-input::-moz-placeholder { color: rgba(0, 0, 0, 0.75)!important; }' +
+    '.header-logo-wordmark { color: #000; } .header-logo-wordmark:hover { color: #4078c0; }';
 var head = document.head || document.getElementsByTagName('head')[0];
 var style = document.createElement('style');
 
